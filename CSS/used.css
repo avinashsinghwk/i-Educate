@@ -1,0 +1,11 @@
+.p-h-text{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: 3px;
+    text-transform: capitalize;
+}
+.p-text{
+    font-size: 18px;
+    margin-top: 8px;
+}
